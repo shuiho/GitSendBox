@@ -51,4 +51,5 @@ fabric.properties
 # exclude bin and target folder
 bin/
 target/
+.idea/
 .cache-main
